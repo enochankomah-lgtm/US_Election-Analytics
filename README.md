@@ -82,7 +82,8 @@ The Power BI dashboard provides:
 - Margin analysis  
 - Education, income, and inequality breakdowns  
 - Interactive filtering for deeper exploration
-- ## Visit Election Dashboard for more details 
+- ## Visit Election Dashboard for more details
+- https://github.com/enochankomah-lgtm/US_Election-Analytics/blob/98e049962991b6aecd67892244765ff65db6de8b/Election%20Analytics/Election%20Dashboard/analytic.pbix
 
 ---
 
