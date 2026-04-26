@@ -86,7 +86,8 @@ The Power BI dashboard provides:
 # Here is  a screenshot of two of the reports:
 
 Income vs Voting Behavior :
-https://github.com/enochankomah-lgtm/US_Election-Analytics/blob/main/Election%20Analytics/Images/income%20impact.JPG
+<img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/629702e0-3c0f-4deb-bb17-1ebd7f75933b" />
+
 - ## Visit Election Dashboard for more details
 - https://github.com/enochankomah-lgtm/US_Election-Analytics/blob/98e049962991b6aecd67892244765ff65db6de8b/Election%20Analytics/Election%20Dashboard/analytic.pbix
 
