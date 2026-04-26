@@ -83,10 +83,16 @@ The Power BI dashboard provides:
 - Education, income, and inequality breakdowns  
 - Interactive filtering for deeper exploration
   
-# Here is  a screenshot of two of the reports:
+# Here is  a screenshot of one of the reports:
 
 Income vs Voting Behavior :
+
 <img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/629702e0-3c0f-4deb-bb17-1ebd7f75933b" />
+
+# More images here
+
+
+https://github.com/enochankomah-lgtm/US_Election-Analytics/tree/main/Election%20Analytics/Images
 
 - ## Visit Election Dashboard for more details
 - https://github.com/enochankomah-lgtm/US_Election-Analytics/blob/98e049962991b6aecd67892244765ff65db6de8b/Election%20Analytics/Election%20Dashboard/analytic.pbix
